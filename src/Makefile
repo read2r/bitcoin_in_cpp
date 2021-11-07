@@ -1,6 +1,6 @@
 CC = g++
 TARGET = app.out
-OBJS = main.o galois.o
+OBJS = main.o galois.o ellipticcurve.o
 
 CFLAGS = -Wall
 LDFLAGS = -lc
